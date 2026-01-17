@@ -100,7 +100,7 @@
         "@type": "Product",
         "name": "KENAHOKI # Situs Link Slot Mahjong Gacor Resmi PG Soft Gampang Menang Malam Ini",
         "description": "Kenahoki merupakan situs slot mahjong PG Soft dengan link gacor resmi gampang menang sangat cocok untuk mencari cuan malam ini melalui permainan mahjong slot stabil, aman dan ada bet 200 perak termurah.",
-        "url": "https://lebua.com/offers/",
+        "url": "https://lebua.com/",
         "sku": "4433992903",
         "brand": {
             "@type": "Brand",
@@ -159,25 +159,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Kenahoki",
-            "item": "https://lebua.com/offers/"
+            "item": "https://lebua.com/"
             },
             {
             "@type": "ListItem",
             "position": 2,
             "name": "Slot Gacor",
-            "item": "https://lebua.com/offers/"
+            "item": "https://lebua.com/"
             },
             {
             "@type": "ListItem",
             "position": 3,
             "name": "Slot Mahjong",
-            "item": "https://lebua.com/offers/"
+            "item": "https://lebua.com/"
             },
             {
             "@type": "ListItem",
             "position": 4,
             "name": "Mahjong Ways 2",
-            "item": "https://lebua.com/offers/"
+            "item": "https://lebua.com/"
             }
         ]
         }
@@ -196,7 +196,7 @@
     <meta property="og:title" content="Main Slot Mahjong Di Situs Kenahoki Sekarang Makin Gampang Menang">
     <meta property="og:description" content="Kenahoki merupakan situs slot mahjong PG Soft dengan link gacor resmi gampang menang sangat cocok untuk mencari cuan malam ini melalui permainan mahjong slot stabil, aman dan ada bet 200 perak termurah.">
     <meta property="og:type" content="product">
-    <meta property="og:url" content="https://lebua.com/offers/">
+    <meta property="og:url" content="https://lebua.com/">
     <meta property="og:image" content="https://lebua.com/wp-content/uploads/2019/07/mahjong-slot-kenahoki.webp">
     <meta property="product:price:amount" content="16.00">
     <meta property="product:price:currency" content="USD">
@@ -211,37 +211,37 @@
     <link rel="preconnect" href="//v.etsystatic.com">
     <link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous">
     <link rel="preload" as="image" imagesrcset="https://lebua.com/wp-content/uploads/2019/07/mahjong-slot-kenahoki.webp 1x, https://lebua.com/wp-content/uploads/2019/07/mahjong-slot-kenahoki.webp 2x" fetchpriority="high">
-    <link rel="canonical" href="https://lebua.com/offers/">
+    <link rel="canonical" href="https://lebua.com/">
     <link rel="amphtml" href="https://mahjongslot.b-cdn.net/lebua/">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="en">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="en-FI">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="en-AU">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="en-CA">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="en-DK">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="en-HK">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="en-IE">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="en-IL">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="en-IN">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="en-NZ">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="en-NO">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="en-SE">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="en-SG">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="en-GB">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="de">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="de-AT">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="de-CH">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="fr">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="fr-CA">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="nl">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="nl-BE">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="it">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="es">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="es-MX">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="ja">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="pl">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="pt">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="x-default">
-    <link rel="alternate" href="https://lebua.com/offers/" hreflang="en-US">
+    <link rel="alternate" href="https://lebua.com/" hreflang="en">
+    <link rel="alternate" href="https://lebua.com/" hreflang="en-FI">
+    <link rel="alternate" href="https://lebua.com/" hreflang="en-AU">
+    <link rel="alternate" href="https://lebua.com/" hreflang="en-CA">
+    <link rel="alternate" href="https://lebua.com/" hreflang="en-DK">
+    <link rel="alternate" href="https://lebua.com/" hreflang="en-HK">
+    <link rel="alternate" href="https://lebua.com/" hreflang="en-IE">
+    <link rel="alternate" href="https://lebua.com/" hreflang="en-IL">
+    <link rel="alternate" href="https://lebua.com/" hreflang="en-IN">
+    <link rel="alternate" href="https://lebua.com/" hreflang="en-NZ">
+    <link rel="alternate" href="https://lebua.com/" hreflang="en-NO">
+    <link rel="alternate" href="https://lebua.com/" hreflang="en-SE">
+    <link rel="alternate" href="https://lebua.com/" hreflang="en-SG">
+    <link rel="alternate" href="https://lebua.com/" hreflang="en-GB">
+    <link rel="alternate" href="https://lebua.com/" hreflang="de">
+    <link rel="alternate" href="https://lebua.com/" hreflang="de-AT">
+    <link rel="alternate" href="https://lebua.com/" hreflang="de-CH">
+    <link rel="alternate" href="https://lebua.com/" hreflang="fr">
+    <link rel="alternate" href="https://lebua.com/" hreflang="fr-CA">
+    <link rel="alternate" href="https://lebua.com/" hreflang="nl">
+    <link rel="alternate" href="https://lebua.com/" hreflang="nl-BE">
+    <link rel="alternate" href="https://lebua.com/" hreflang="it">
+    <link rel="alternate" href="https://lebua.com/" hreflang="es">
+    <link rel="alternate" href="https://lebua.com/" hreflang="es-MX">
+    <link rel="alternate" href="https://lebua.com/" hreflang="ja">
+    <link rel="alternate" href="https://lebua.com/" hreflang="pl">
+    <link rel="alternate" href="https://lebua.com/" hreflang="pt">
+    <link rel="alternate" href="https://lebua.com/" hreflang="x-default">
+    <link rel="alternate" href="https://lebua.com/" hreflang="en-US">
     <script>__webpack_public_path__ = "https://www.etsy.com/ac/evergreenVendor/js/en-US/";</script>
     <link rel="shortcut icon" href="https://lebua.com/wp-content/uploads/2019/11/favicon.png">
     <link rel="icon" href="https://lebua.com/wp-content/uploads/2019/11/favicon.png" type="image/png" sizes="32x32">
@@ -302,7 +302,7 @@
                 <script
                    >!function (e) { var r = e.__etsy_logging; if (r && r.perf && r.perf.prefixMarkMeasure) { var n = r.perf.prefixMarkMeasure("logo_render"); e.performance && e.performance.mark && e.requestAnimationFrame((function () { setTimeout((function () { e.performance.mark(n) })) })) } }(window);</script>
                 <div class="wt-pb-lg-0 wt-pt-sm-1 wt-pt-lg-0 wt-pr-xs-1 " data-header-logo-container>
-                    <a href="https://lebua.com/offers/" elementtiming="ux-global-nav">
+                    <a href="https://lebua.com/" elementtiming="ux-global-nav">
                         <img src="https://res.cloudinary.com/dgzowgke7/image/upload/v1761133316/logo-kenahoki_hwsaae.gif" alt="Logo Kenahoki">
                     </a>
                 </div>
@@ -521,7 +521,7 @@
                             data-menu-ui="menubar" data-ui="top-nav-category-list">
 
                             <li class="wt-mr-xs-3">
-                                <a href="https://lebua.com/offers/"
+                                <a href="https://lebua.com/"
                                     class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem"
                                     data-ui="top-nav-category-link" data-node-id="-10">
                                     <span class="wt-icon wt-icon--smaller-xs wt-nudge-b-1 wt-nudge-r-3"><svg
@@ -535,28 +535,28 @@
                                 </a>
                             </li>
                             <li class="wt-mr-xs-3">
-                                <a href="https://lebua.com/offers/"
+                                <a href="https://lebua.com/"
                                     class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem"
                                     data-ui="top-nav-category-link">
                                     Slot Mahjong Ways
                                 </a>
                             </li>
                             <li class="wt-mr-xs-3">
-                                <a href="https://lebua.com/offers/"
+                                <a href="https://lebua.com/"
                                     class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem"
                                     data-ui="top-nav-category-link" data-node-id="2">
                                     Slot Gacor
                                 </a>
                             </li>
                             <li class="wt-mr-xs-3">
-                                <a href="https://lebua.com/offers/"
+                                <a href="https://lebua.com/"
                                     class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem"
                                     data-ui="top-nav-category-link" data-node-id="3">
                                     RTP
                                 </a>
                             </li>
                             <li class="wt-mr-xs-3">
-                                <a href="https://lebua.com/offers/"
+                                <a href="https://lebua.com/"
                                     class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem"
                                     data-ui="top-nav-category-link">
                                     Bocoran Pola
@@ -670,7 +670,7 @@
                             <li data-ui="list-item-breadcrumbs"
                                 class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
                                 <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0"
-                                    href="https://lebua.com/offers/">Kenahoki</a>
+                                    href="https://lebua.com/">Kenahoki</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"
                                         focusable="false">
@@ -681,7 +681,7 @@
                             <li data-ui="list-item-breadcrumbs"
                                 class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
                                 <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0"
-                                    href="https://lebua.com/offers/">Slot Gacor</a>
+                                    href="https://lebua.com/">Slot Gacor</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"
                                         focusable="false">
@@ -692,7 +692,7 @@
                             <li data-ui="list-item-breadcrumbs"
                                 class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
                                 <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0"
-                                    href="https://lebua.com/offers/">Slot Mahjong</a>
+                                    href="https://lebua.com/">Slot Mahjong</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"
                                         focusable="false">
@@ -703,7 +703,7 @@
                             <li data-ui="list-item-breadcrumbs"
                                 class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
                                 <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0"
-                                    href="https://lebua.com/offers/">Mahjong Ways 2</a>
+                                    href="https://lebua.com/">Mahjong Ways 2</a>
                             </li>
                         </ul>
                         <span class="active-nav-item-indicator wt-position-absolute wt-display-inline-block"
